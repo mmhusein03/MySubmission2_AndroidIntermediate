@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySubmission</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau membagikan cerita keseharianmu? atau membagikan cerita pengalaman mu? Langsung di Your Stories aja!</string>
+    <string name="title_welcome_page">Selamat datang di Your Stories!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upload cerita mu?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2022 YourStories</string>
+    <string name="logout">Keluar</string>
+
+    <string name="invalid_email">email tidak valid</string>
+    <string name="invalid_password">password harus > 6</string>
+    <string name="invalid_name">Nama tidak boleh kosong</string>
+    <string name="timeCreate">createdAt</string>
+    <string name="gallery">GALERI</string>
+    <string name="upload">UNGGAH</string>
+    <string name="description">deskripsi</string>
+    <string name="waktu_post">waktu</string>
+    <string name="appwidget_text">STORIES</string>
+    <string name="title_alert_dialog">Yeah!</string>
+    <string name="message_alert_dialog">Akunnya sudah jadi nih. Yuk, login dan bagikan ceritamu!.</string>
+    <string name="message_positive_button">Lanjut</string>
+    <string name="failure_message_api">Gagal instance Retrofit</string>
+    <string name="message_alert_dialog_login">Anda berhasil login.</string>
+    <string name="title_intent_galery">Pilih gambar</string>
+    <string name="message_alert_dialog_addstory">Unggah gambar berhasil</string>
+    <string name="message_null_picture">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="message_null_permission">Tidak mendapatkan permission.</string>
+    <string name="message_failure_camera">Gagal memunculkan kamera.</string>
+    <string name="message_error_take_picture">Gagal mengambil gambar.</string>
+    <string name="title_detail_story">Posts</string>
+    <string name="title_list_stories">Explore</string>
+    <string name="settings">Settings</string>
+    <string name="retry">Retry</string>
+    <string name="home_page">YourStories</string>
+    <string name="detail_page">Posts</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="failed_style_maps">Style parsing gagal.</string>
+    <string name="failed_find_style">style tidak ditemukan</string>
+    <string name="failed_map_loc">gagal karena : %1$s</string>
+    <string name="title_maps">Maps</string>
+    <string name="aunth_failed">Gagal!, Mohon cek email/passwordnya lagi ya</string>
+    <string name="failed_upload">Tambahkan deskripimu dulu ya… atau cek koneksi mu</string>
+    <string name="signup_failed">Gagal, Mohon cek email/passwordnya ya atau email sudah terpakai</string>
+</resources>
